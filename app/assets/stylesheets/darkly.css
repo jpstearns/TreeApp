@@ -1,0 +1,13 @@
+/* Darkly
+ * Bootswatch
+ *= require_self
+ *= require darkly/loader
+ *= require darkly/bootswatch
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.logo{
+	font-family: 'Pacifico', serif;
+	font-size: 36px;
+}
