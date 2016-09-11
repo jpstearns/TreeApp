@@ -1727,3 +1727,2604 @@ Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea24771
 
 
 Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 15:56:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:26:37 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 635ms (Views: 633.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:26:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:27:26 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (1.2ms)
+Completed 200 OK in 330ms (Views: 328.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:27:27 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:28:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.2ms)
+Completed 200 OK in 406ms (Views: 400.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:35 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:35 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:35 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:35 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:35 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:36 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:28:55 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.2ms)
+Completed 200 OK in 339ms (Views: 336.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:28:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:34:32 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 6418ms (Views: 6414.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:34:38 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.2ms)
+Completed 200 OK in 548ms (Views: 546.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d7f595b5c8850eda27e0153137aaf2a6d33472353e845b62c8a8ed1fa4d30db5.css?body=1" for 127.0.0.1 at 2016-09-11 16:34:39 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-96d76926cb75a62255af25fad0029c864744e9fd576ce6b6a48c78dd1dd8c0ce.css?body=1" for 127.0.0.1 at 2016-09-11 16:34:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:36:02 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (7.6ms)
+Completed 200 OK in 2937ms (Views: 2881.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d7f595b5c8850eda27e0153137aaf2a6d33472353e845b62c8a8ed1fa4d30db5.css?body=1" for 127.0.0.1 at 2016-09-11 16:36:06 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-96d76926cb75a62255af25fad0029c864744e9fd576ce6b6a48c78dd1dd8c0ce.css?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:36:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:37:24 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 427ms (Views: 423.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:37:24 -0400
+
+
+Started GET "/assets/darkly/loader.self-d7f595b5c8850eda27e0153137aaf2a6d33472353e845b62c8a8ed1fa4d30db5.css?body=1" for 127.0.0.1 at 2016-09-11 16:37:24 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-96d76926cb75a62255af25fad0029c864744e9fd576ce6b6a48c78dd1dd8c0ce.css?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:37:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:38:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (4.6ms)
+Completed 200 OK in 2367ms (Views: 2342.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/darkly/loader.self-d7f595b5c8850eda27e0153137aaf2a6d33472353e845b62c8a8ed1fa4d30db5.css?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-96d76926cb75a62255af25fad0029c864744e9fd576ce6b6a48c78dd1dd8c0ce.css?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:10 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:38:11 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:43:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 425ms (Views: 421.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:43:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:14 -0400
+
+
+Started GET "/assets/darkly/loader.self-d7f595b5c8850eda27e0153137aaf2a6d33472353e845b62c8a8ed1fa4d30db5.css?body=1" for 127.0.0.1 at 2016-09-11 16:43:14 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:14 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-96d76926cb75a62255af25fad0029c864744e9fd576ce6b6a48c78dd1dd8c0ce.css?body=1" for 127.0.0.1 at 2016-09-11 16:43:14 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:43:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:44:35 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 432ms (Views: 429.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:36 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:44:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:51:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 446ms (Views: 443.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-792c6813e02199e275ac2089b7a9d2190f2710823418651eea93c757c0286b2f.css?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:51:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:56:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 631ms (Views: 628.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/darkly.self-7408ad03b3462407f5de5bcdb542cbf662b1006fc62df7ec7deb63b62ccf962d.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:56:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 523ms (Views: 521.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-63a388982750c2e1fa63c752f8640c935ae11c93a305e1011b3a62ea61275e23.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:35 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:56:36 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:58:49 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 542ms (Views: 538.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-417da3df103d2a3a032cbbe43b3a29625bc543b139e82775625ed62458a0d3ca.css?body=1" for 127.0.0.1 at 2016-09-11 16:58:49 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:58:49 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:58:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:59:02 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 535ms (Views: 532.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-32d7b3756f46d5d81fac4f09a59914bc305f799b4d134a2af78e7375b59d225e.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 16:59:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 402ms (Views: 399.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/darkly.self-32d7b3756f46d5d81fac4f09a59914bc305f799b4d134a2af78e7375b59d225e.css?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:31 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:32 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 16:59:32 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:05:06 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 588ms (Views: 584.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-84f52694e09ea2c78de4bb4d9c6f0ebae68c76942a8634dfd17e538ba0036e04.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:07 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:07 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:07 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:05:26 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 578ms (Views: 575.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/darkly.self-5308c8403d2df6191407c8ca7daee1c93b47c0d630037f4ced22cd9faea08492.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:27 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:28 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:05:49 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 557ms (Views: 553.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-1deed37b3804ab34490098eb2a1830970610a1be920e053d3fbf14058674ff54.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:50 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:50 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:05:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:06:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 548ms (Views: 544.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/darkly.self-3613d10831b24c93ba97bbdba313ea8cd2997eb6ea4b442af067e0245f24d373.css?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:06:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:08:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 589ms (Views: 586.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-734a572293767b774f7b3330bc7e1faee84810f878abedc6ab653ecde7fd6057.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:18 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:18 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:08:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.2ms)
+Completed 200 OK in 523ms (Views: 521.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-b4520fcfbc43e6ff263a806a7fe57f8bf221052f4f56abd2a1a393f00dea4a38.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:31 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:31 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:32 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:08:56 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 620ms (Views: 618.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-803fffc9a1fea6e0ecfba9a1aebd37ba39fc8ae4f2e82b7510572d90642794d7.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:08:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:11:39 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 765ms (Views: 761.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-2e5dfb6ca9088f5e0b9db9f2ec93af0d2aa281be08921d076023b42e752a9a59.css?body=1" for 127.0.0.1 at 2016-09-11 17:11:40 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:11:40 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:11:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:12:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 564ms (Views: 561.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-3204e2b78d7268c9e863250f9829c97dbfcafe6e835356315ce407c7bc3ef0ee.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:12:15 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 485ms (Views: 483.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-faaa607907b05cdfee493d68df6953a4018954bae617134b0c8d017a6b59ba10.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:16 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:12:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 638ms (Views: 636.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-7f4f8e85036781248b39ba9b4734d1b072bf6253b86e5163c7c4430472bb7dc1.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:12:54 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 503ms (Views: 502.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:55 -0400
+
+
+Started GET "/assets/darkly.self-7b80d013b6c6b2ebd0a80ab236d012aabcb707b808bd3af8f98723858ff2c116.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:55 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:12:55 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:12:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:13:50 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 556ms (Views: 552.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-a1ac2d43708c0eedeb94b36164fdaa742aa80689d99cbf386517d5c8b748b479.css?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:13:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:14:22 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 355ms (Views: 353.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-7b80d013b6c6b2ebd0a80ab236d012aabcb707b808bd3af8f98723858ff2c116.css?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:14:23 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:15:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 541ms (Views: 538.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-56a3ba3cf63dd175a9a373fd2758b7c06e34706fbde962d0dc9a6f33f4873fdc.css?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:10 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:10 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:10 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:15:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:16:23 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 587ms (Views: 584.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-e0dc38eff9f0f60873eb8e7366a3afb618c5f35265b37dcabe4159b68d87ae8d.css?body=1" for 127.0.0.1 at 2016-09-11 17:16:23 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:16:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:17:46 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 662ms (Views: 658.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-e780e8bf0b882e79a318e88cb7e9c6aeecc426ad17b021db6b53da6f93865e5e.css?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:17:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:19:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 561ms (Views: 558.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:19:08 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:19:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:19:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 484ms (Views: 481.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:00 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:20:25 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.2ms)
+Completed 200 OK in 410ms (Views: 408.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:26 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:27 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:20:27 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:21:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (2.6ms)
+Completed 200 OK in 386ms (Views: 382.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:21:29 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (2.1ms)
+Completed 200 OK in 595ms (Views: 593.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:30 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:31 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:31 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:21:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:24:01 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (3.3ms)
+Completed 200 OK in 442ms (Views: 438.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:01 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:01 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:24:41 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (1.5ms)
+Completed 200 OK in 490ms (Views: 488.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:42 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:42 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:24:42 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:24:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-11 17:28:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (2.6ms)
+Completed 200 OK in 398ms (Views: 395.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:14 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:28:15 -0400

@@ -5,9 +5,22 @@
  *= require darkly/bootswatch
 */
 
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Signika');
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
 
 .logo{
-	font-family: 'Pacifico', serif;
-	font-size: 36px;
+	/*line-height: 72px;*/
+    font-size: 50px;
+    letter-spacing: -4px;
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    font-weight: bold;
 }
+
+.logo:hover{
+	color: #f38929;
+}
+.est{
+	/*line-height: 72px;*/
+    font-size: 40px;
+}
+
