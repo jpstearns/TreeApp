@@ -1,0 +1,22 @@
+{
+  "name": "TreeApp",
+  "homepage": "https://github.com/jpstearns/TreeApp",
+  "authors": [
+    "jpstearns <jared.patrick.stearns@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/component",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}

@@ -4526,3 +4526,291 @@ Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea24771
 
 
 Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-11 17:45:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:12:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (6.7ms)
+Completed 500 Internal Server Error in 9207ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'angular/angular' with type 'application/javascript'
+Checked in these paths: 
+  /home/jpstearns/apps/TreeApp/app/assets/images
+  /home/jpstearns/apps/TreeApp/app/assets/javascripts
+  /home/jpstearns/apps/TreeApp/app/assets/stylesheets
+  /home/jpstearns/apps/TreeApp/vendor/assets/javascripts
+  /home/jpstearns/apps/TreeApp/vendor/assets/stylesheets
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jade-rails-1.9.2.0/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jquery-rails-4.2.1/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/fonts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/turbolinks-source-5.0.0/lib/assets/javascripts
+  /home/jpstearns/apps/TreeApp/lib/assets/bower_components
+  /home/jpstearns/apps/TreeApp/vendor/assets/bower_components
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/vendor/toolkit):
+    12:       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    13:     <![endif]-->
+    14: 
+    15:     <%= stylesheet_link_tag "darkly", :media => "all" %>
+    16: 
+    17:     <%= yield(:page_stylesheet) if content_for?(:page_stylesheet) %>
+    18: 
+  app/assets/javascripts/application.js:17
+  app/views/layouts/darkly.html.erb:15:in `_app_views_layouts_darkly_html_erb__898075739207961586_33712140'
+
+
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (46.7ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (17.8ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (170.9ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.5ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (96.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.5ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (218.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:15:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.6ms)
+Completed 500 Internal Server Error in 609ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'angular' with type 'application/javascript'
+Checked in these paths: 
+  /home/jpstearns/apps/TreeApp/app/assets/images
+  /home/jpstearns/apps/TreeApp/app/assets/javascripts
+  /home/jpstearns/apps/TreeApp/app/assets/stylesheets
+  /home/jpstearns/apps/TreeApp/vendor/assets/javascripts
+  /home/jpstearns/apps/TreeApp/vendor/assets/stylesheets
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jade-rails-1.9.2.0/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jquery-rails-4.2.1/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/fonts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/turbolinks-source-5.0.0/lib/assets/javascripts
+  /home/jpstearns/apps/TreeApp/lib/assets/bower_components
+  /home/jpstearns/apps/TreeApp/vendor/assets/bower_components
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/vendor/toolkit):
+    12:       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    13:     <![endif]-->
+    14: 
+    15:     <%= stylesheet_link_tag "darkly", :media => "all" %>
+    16: 
+    17:     <%= yield(:page_stylesheet) if content_for?(:page_stylesheet) %>
+    18: 
+  app/assets/javascripts/application.js:17
+  app/views/layouts/darkly.html.erb:15:in `_app_views_layouts_darkly_html_erb__898075739207961586_33712140'
+
+
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (40.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (16.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (113.6ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.4ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.1ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (42.2ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.2ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (83.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:16:23 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 500 Internal Server Error in 435ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'angular/angular.js' with type 'application/javascript'
+Checked in these paths: 
+  /home/jpstearns/apps/TreeApp/app/assets/images
+  /home/jpstearns/apps/TreeApp/app/assets/javascripts
+  /home/jpstearns/apps/TreeApp/app/assets/stylesheets
+  /home/jpstearns/apps/TreeApp/vendor/assets/javascripts
+  /home/jpstearns/apps/TreeApp/vendor/assets/stylesheets
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jade-rails-1.9.2.0/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/jquery-rails-4.2.1/vendor/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/fonts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/app/assets/javascripts
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/turbolinks-source-5.0.0/lib/assets/javascripts
+  /home/jpstearns/apps/TreeApp/lib/assets/bower_components
+  /home/jpstearns/apps/TreeApp/vendor/assets/bower_components
+  /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/twitter-bootswatch-rails-3.3.4.0/vendor/toolkit):
+    12:       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    13:     <![endif]-->
+    14: 
+    15:     <%= stylesheet_link_tag "darkly", :media => "all" %>
+    16: 
+    17:     <%= yield(:page_stylesheet) if content_for?(:page_stylesheet) %>
+    18: 
+  app/assets/javascripts/application.js:17
+  app/views/layouts/darkly.html.erb:15:in `_app_views_layouts_darkly_html_erb__898075739207961586_33712140'
+
+
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (41.4ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (15.7ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (114.4ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (43.8ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.3ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.4ms)
+  Rendered /home/jpstearns/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (102.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:26:40 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (5.9ms)
+Completed 200 OK in 11260ms (Views: 11233.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-12 12:26:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:26:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.4ms)
+Completed 200 OK in 466ms (Views: 437.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:31:53 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 789ms (Views: 785.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/darkly.self-d88e2ef10519a40957b6237d29bdbbce2847b1c89a7c58e69319c3a89243f1ed.css?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/darkly/loader.self-d6ea596db2103ff080e78eedb9f85a27f71f26b813707525a24afac9eae9dad8.css?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-ef0a6547ca5708b60c3f90c3d6801ffb979fe1af3d491e26fd080dcbddabfb6a.css?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/darkly/loader.self-026c4bc231d5ec7a0b3dba40b092f06054dfc661d76e2f0868950daf377fb04a.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/darkly/bootswatch.self-a1040029e025219ef75253ec4beaaea247711d627a4fd7c6f5d097903a68c5e1.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/assets/darkly.self-255b3664cc9f8733566f311f58ae50b9e1dd494cba6a1bdd8210b0112e62134c.js?body=1" for 127.0.0.1 at 2016-09-12 12:31:54 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:31:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.3ms)
+Completed 200 OK in 756ms (Views: 750.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-12 12:31:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/darkly (0.1ms)
+Completed 200 OK in 545ms (Views: 543.2ms | ActiveRecord: 0.0ms)

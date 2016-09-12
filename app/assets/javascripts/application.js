@@ -14,4 +14,8 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require jade/runtime
+//= require angular/angular.js
+//= require_tree
 
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap-sprockets";
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap";
